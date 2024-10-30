@@ -1,6 +1,9 @@
+![Banner](./banner.png)
+
 # Wrapping Paper Quotes Calculator
 
-> This is a program to demonstrate a 'proof of concept' for a department, who provide gift wrapping services based on the shape of the present. In this scenario, only an employee of the department can use this program.
+> ![Note]
+> This is a program to demonstrate a 'proof of concept' for a department, who provide gift wrapping services based on the shape of the present. In this scenario, only an employee of the department can use this program. The assignment stated that all code must be within one python file. This program will not be worked on or maintained.
 
 This is code that was submitted as an assignment.
 * Submitted: May 2022
