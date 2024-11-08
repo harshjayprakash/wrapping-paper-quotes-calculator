@@ -9,7 +9,7 @@ wrapping services department of XYZ Corporation. This "proof of concept" app cal
 costs based on present shape, size, paper type, colour preferencs and additional items -
 such as a bow or a gift card, all as per the assignment requirements from the Module
 BS1220 Introduction to Software Design and Development in the Computer Science course at
-the University of Winchester.
+the University of Winchester. The Original Hand In Date was Monday, 23rd of May 2022.
 
 ## Original Requirements
 
