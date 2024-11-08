@@ -17,8 +17,8 @@ the University of Winchester.
 regarding dimensions (length, width, depth) and colour specification as needed. If needed,
 optional items include a bow and/or a gift card with a custom message in the quote.
 * The application is developed using Python (version <= 3.8) within a single file adhering
-to assignment constraints for demonstration purposes -- no further development will be
-pursued after the project's conclusion.
+to assignment constraints for demonstration purposes -- **no further development will be
+pursued after the project's conclusion**.
 * Uses the Tkinter GUI framework, without requiring extenal IDE installation - a
 limitation mandated by the assignment.
 
