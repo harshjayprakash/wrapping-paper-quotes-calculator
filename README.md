@@ -1,4 +1,4 @@
-![Banner](./banner.png)
+![Banner](./doc/banner.png)
 
 # Wrapping Paper Quotes Calculator
 
