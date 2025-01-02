@@ -1,6 +1,6 @@
 # Wrapping Paper Quotes Calculator (WPQC)
 
-![Banner (Decorative)](./doc/banner.png)
+![Banner (Decorative)](./doc/wpq-banner.png)
 
 ## Overview
 
