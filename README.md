@@ -1,7 +1,5 @@
 # Wrapping Paper Quotes Calculator (WPQC)
 
-![Banner (Decorative)](./doc/wpq-banner.png)
-
 ## Overview
 
 The "Wrapping Paper Quotes Calculator" is an application for internal use within the
