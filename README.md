@@ -43,7 +43,7 @@ screen within the interface. The window supports creating, editing and deleting 
 Additionally, staff may export the quote list into a receipt format (to a .txt file),
 before checking out.
 
-![Quote Manager Window Screenshot](./doc/quote-manager.PNG)
+![Quote Manager Window Screenshot](./docs/assets/wpq-manager.jpg)
 
 ### Quote Editor
 
@@ -51,4 +51,4 @@ The "Quote Editor" allows staff to edit existing or create new quotes, providing
 price calculation, based on the options chosen including: dimensions, colour, wrapping
 design, and whether a bow and/or gift card is required.
 
-![Quote Editor Window Screenshot](./doc/quote-editor.PNG)
+![Quote Editor Window Screenshot](./docs/assets/wpq-editor.jpg)
