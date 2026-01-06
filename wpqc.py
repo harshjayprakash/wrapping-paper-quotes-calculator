@@ -1,4 +1,20 @@
-"""Wrapping Paper Quotes Calculator; Requires Python 3.8.0 or Higher"""
+"""
+Module: Wrapping Paper Quotes Calculator (wpqc.py)
+Author: Harsh Jayprakash <harshjayprakash@outlook.com>
+Date: (Original) May 2022
+License: MIT
+
+Requires Python 3.8 or newer.
+
+A proof of concept calculator application for a department who provide
+gift wrapping services based on present shapes. This application was
+part of a university assignment.
+
+Changelog:
+    v1.0.14 (23-05-2022): Orginal submitted version.
+    v1.0.15 (05-01-2026): Added docstrings.
+                          Updated application name.
+"""
 import decimal
 import datetime
 import math
